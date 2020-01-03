@@ -25,7 +25,7 @@ public class PlusOuMoins {
 		int solution;
 		int restart=0;
 		String recommencer;
-		
+		int testmodification;
 		
 		do {
 			do {
